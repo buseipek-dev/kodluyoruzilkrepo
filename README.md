@@ -5,7 +5,7 @@ Bu repo Kodluyoruz Frond-End Egitiminde olusturdugumuz ilk repo. İcerisinde bir
 ## Installation 
 
 Öncelikle projeyi clonelayin.(Buraya sizin reponuzdan aldiginiz link gelecek)
-[git clone] (https://github.com/buseipek-dev/kodluyoruzilkrepo.git)
+- git clone (https://github.com/buseipek-dev/kodluyoruzilkrepo.git)
 
 ## Usage 
 
@@ -13,8 +13,8 @@ Projeyi cloneladiktan sonra Visual Studio Code programını aciniz.
 
 ## Linux icin:
 
-cd kodluyoruzilkrepo
-code . 
+- cd kodluyoruzilkrepo
+  code . 
 
 ## Contrinuting
 
@@ -22,5 +22,5 @@ Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi deg
 
 ## License
 
-MIT
+(MIT)
 
