@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi deg
 ## License
 
 [MIT]
-
+[görsel] (https://github.com/buseipek-dev/kodluyoruzilkrepo/edit/main/README.md)
