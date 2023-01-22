@@ -22,5 +22,5 @@ Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi deg
 
 ## License
 
-(MIT)
+[MIT]
 
