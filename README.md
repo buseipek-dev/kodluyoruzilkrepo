@@ -16,7 +16,7 @@ Projeyi cloneladiktan sonra Visual Studio Code programını aciniz.
 - cd kodluyoruzilkrepo
   code . 
 
-## Contrinuting
+## Contributing
 
 Pull requestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi degistirmek istediginizi tartısmak icin bir konu acınız. 
 
